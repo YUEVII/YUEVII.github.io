@@ -33,7 +33,7 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
 
 Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge, **Leyi Wu**, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Yingcong Chen$^{\dagger}$
-* *Equal contribution  $^{\dagger}$Corresponding Author
+* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -46,7 +46,7 @@ Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge, **Leyi Wu**, Dongyu Ya
 
 Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen$^{\dagger}$
 
-* *Equal contribution  $^{\dagger}$Corresponding Author
+* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.00547) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
