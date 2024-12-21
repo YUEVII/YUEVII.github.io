@@ -8,7 +8,7 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+    <meta name="description" content="{{ page.description | markdownify | strip_html | strip_newlines | escape_once }}">
   <body>
 
     {% include browser-upgrade.html %}
@@ -21,9 +21,6 @@ layout: compress
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <section class="page__description">
-          <p>{{ site.description | markdownify }}</p>
-        </section>
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}
