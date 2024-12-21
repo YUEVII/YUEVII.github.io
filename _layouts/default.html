@@ -13,6 +13,10 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    <section class="page__description">
+      <p>{{ site.description | markdownify }}</p>
+    </section>
+
 
     <div id="main" role="main">
       {% include sidebar.html %}
