@@ -17,42 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), majoring in Artificial Intelligence. I'm also a member of [Envision Lab](), with privilege of working closely with [Dongyu Yan](), [Tianshuo Xu](), [Zhifei Chen]() and under the guidance of Prof.[Ying-Cong Chen](). My research interests mainly focus on generative models including 3D generation, texture generation and video generation. 
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion]() is published.
+- *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning]() is published. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhifei Chen$^{*}$, Tianshuo Xu$^{*}$, Wenhang Ge, **Leyi Wu**, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Yingcong Chen$^{\dagger}$
+* *Equal contribution  $^{\dagger}$Corresponding Author
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/pdf/2412.00547)
+
+Tianshuo Xu$^{*}$, Zhifei Chen$^{*}$, **Leyi Wu**, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen$^{\dagger}$
+
+* *Equal contribution  $^{\dagger}$Corresponding Author
+
+[**Paper**](https://arxiv.org/pdf/2412.00547) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Gold Medal**, The 16th place  
+  *Huawei Cup The 2023* **ICPC Asia-East Continent Final Contest**  
+  Shanghai, China | 2024
+
+- **Silver Medal**  
+  *The 2023* **ICPC Asia Hefei Regional Contest**  
+  Hefei, China | 2023
+
+- **Silver Medal**  
+  *The 48th* **ICPC Asia Regional Contest Jinan Site**  
+  Jinan, China | 2023
+
+- **Silver Medal**  
+  *2023* **China Collegiate Programming Contest (CCPC), Shenzhen Site**  
+  Shenzhen, China | 2023
+
+- **Bronze Medal**  
+  *2023* **China Collegiate Programming Contest (CCPC), Harbin Site**  
+  Harbin, China | 2023
+
+- **Dean's List Award for Fall 2023 - 2024**  
+  HKUST(GZ) | 2024
+
+- **Dean's List Award for Spring 2024 - 2025**  
+  HKUST(GZ) | 2024
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - 2024.12 (now)*, Undergraduate Student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
