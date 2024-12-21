@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Leyi Wu"
-description              : "Second year undergraduate student at HKUST(GZ). Research interests now mainly focus on generative model including 3D generation, texture generation and video generation."
+description              : "Second year undergraduate student at HKUST(GZ). Research interests now mainly focus on generative models including 3D generation, texture generation and video generation."
 repository               : "https://github.com/YUEVII"
 google_scholar_stats_use_cdn : true
 
