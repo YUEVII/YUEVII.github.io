@@ -22,8 +22,8 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is published.
-- *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is published. 
+- *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
+- *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
 
 # 📝 Publications 
 
@@ -32,7 +32,7 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
 
-Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge, **Leyi Wu**, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Yingcong Chen$^{\dagger}$
+Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge$^{\star}$, **Leyi Wu**, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Yingcong Chen$^{\dagger}$
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -79,8 +79,11 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 - **Dean's List Award for Spring 2024 - 2025**  
   HKUST(GZ) | 2024
 
+- **Dean's List Award for Fall 2024 - 2025**  
+  HKUST(GZ) | 2025
+
 # 📖 Educations
-- *2023.08 - 2024.12 (now)*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/). 
+- *2023.08 - 2025.02 (now)*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
