@@ -22,12 +22,13 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR.
 - *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
 - *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
