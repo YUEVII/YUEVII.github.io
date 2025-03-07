@@ -65,7 +65,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.00547) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/EnVision-Research/MotionDreamer) <strong></span></strong>
+[**Code**](https://github.com/EnVision-Research/MotionDreamer) <strong></strong>
 </div>
 </div>
 
