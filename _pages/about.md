@@ -37,8 +37,8 @@ Jiantao Lin$^{\star}$, Xin Yang$^{\star}$, Meixi Chen$^{\star}$, Yingjie Xu, Don
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://www.arxiv.org/pdf/2503.01370) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io/) <strong></span></strong>
-[**Code**](https://github.com/EnVision-Research/Kiss3DGen) <strong></span></strong>
+[**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io/) <strong></strong>
+[**Code**](https://github.com/EnVision-Research/Kiss3DGen) <strong></strong>
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge$^{\star}$, **Leyi Wu**,
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/EnVision-Research/Uni-Renderer) <strong></span></strong>
+[**Code**](https://github.com/EnVision-Research/Uni-Renderer) <strong></strong>
 </div>
 </div>
 
