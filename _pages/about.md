@@ -22,13 +22,27 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR.
+- *2025.02*: &nbsp;🎉🎉 Our Paper [Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370) is accepted by CVPR2025.
+- *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR2025.
 - *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
 - *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/kiss3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
+[Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370)
+
+Jiantao Lin$^{\star}$, Xin Yang$^{\star}$, Meixi Chen$^{\star}$, Yingjie Xu, Dongyu Yan, **Leyi Wu**, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen$^{\dagger}$
+* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
+
+[**Paper**](https://www.arxiv.org/pdf/2503.01370) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io/) <strong></span></strong>
+[**Code**](https://github.com/EnVision-Research/Kiss3DGen) <strong></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
@@ -37,6 +51,7 @@ Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge$^{\star}$, **Leyi Wu**,
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/EnVision-Research/Uni-Renderer) <strong></span></strong>
 </div>
 </div>
 
@@ -50,6 +65,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2412.00547) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/EnVision-Research/MotionDreamer) <strong></span></strong>
 </div>
 </div>
 
