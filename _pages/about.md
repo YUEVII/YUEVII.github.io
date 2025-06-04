@@ -22,12 +22,27 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is released.
 - *2025.02*: &nbsp;🎉🎉 Our Paper [Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370) is accepted by CVPR2025.
 - *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR2025.
 - *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
 - *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/flexpainter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://arxiv.org/pdf/2506.02620)]
+
+Dongyu Yan$^{\star}$, **Leyi Wu$^{\star}$**, Jiantao Lin, Luozhou Wang, Tianshuo Xu, Zhifei Chen, Zhen Yang, Lie Xu, Shunsi Zhang, Ying-Cong Chen$^{\dagger}$
+* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
+
+[**Paper**](https://arxiv.org/pdf/2506.02620) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://starydy.xyz/FlexPainter/) <strong></strong>
+[**Code**](https://github.com/StarRealMan/FlexPainter) <strong></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/kiss3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
