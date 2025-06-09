@@ -22,7 +22,8 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is released.
+- *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is reposted by AK (huggingface) on [X](https://x.com/_akhaliq/status/1931050970039099501?s=46)!
+- *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is released.
 - *2025.02*: &nbsp;🎉🎉 Our Paper [Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370) is accepted by CVPR2025.
 - *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR2025.
 - *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
