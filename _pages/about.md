@@ -33,7 +33,7 @@ I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/flexpainter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620)]
+[FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620)
 
 Dongyu Yan$^{\star}$, **Leyi Wu$^{\star}$**, Jiantao Lin, Luozhou Wang, Tianshuo Xu, Zhifei Chen, Zhen Yang, Lie Xu, Shunsi Zhang, Ying-Cong Chen$^{\dagger}$
 * $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
