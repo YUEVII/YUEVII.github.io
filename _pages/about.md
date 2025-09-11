@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), majoring in Artificial Intelligence. I'm also a member of [Envision Lab](https://envision-research.hkust-gz.edu.cn/), with privilege of working closely with [Dongyu Yan](http://me.starydy.xyz/), [Tianshuo Xu](https://scholar.google.com/citations?user=I6_dXvEAAAAJ&hl=zh-CN), [Zhifei Chen](https://scholar.google.com/citations?user=RZv77XwAAAAJ&hl=en) and under the guidance of Prof.[Ying-Cong Chen](https://www.yingcong.me/). My research interests mainly focus on generative models including 3D generation, texture generation and video generation. 
+I'm a third-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), majoring in Artificial Intelligence. I'm also a member of [Envision Lab](https://envision-research.hkust-gz.edu.cn/), with privilege of working closely with [Dongyu Yan](http://me.starydy.xyz/), [Tianshuo Xu](https://scholar.google.com/citations?user=I6_dXvEAAAAJ&hl=zh-CN), [Zhifei Chen](https://scholar.google.com/citations?user=RZv77XwAAAAJ&hl=en) and under the guidance of Prof.[Ying-Cong Chen](https://www.yingcong.me/). Now I work in [Knowin.ai](https://knowin.ai/) as an intern, more focusing on Embodied AI. My research interests mainly focus on generative models including 3D generation, texture generation, video generation and Embodied AI. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -116,7 +116,8 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
   HKUST(GZ) | 2025
 
 # 📖 Educations
-- *2023.08 - 2025.02 (now)*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/). 
+- *2023.08 - 2027.06*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
+- *2025.09 - 2026.01*, Exchange Student, [HKUST](https://hkust.edu.hk/).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
