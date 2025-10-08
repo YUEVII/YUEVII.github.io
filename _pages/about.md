@@ -118,7 +118,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 # 📖 Educations
 - *2023.08 - 2027.06*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
 - *2025.09 - 2026.01*, Exchange Student, [HKUST](https://hkust.edu.hk/).
-- 
+  
 # 💻 Internships
 - *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
 
