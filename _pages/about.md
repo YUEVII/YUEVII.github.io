@@ -122,7 +122,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 # 💻 Internships
 - *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
 
-# 🧑‍💻↔️💻 HCI project diaries and reflection
+# 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
 
 
 
