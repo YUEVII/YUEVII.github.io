@@ -118,10 +118,18 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 # 📖 Educations
 - *2023.08 - 2027.06*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
 - *2025.09 - 2026.01*, Exchange Student, [HKUST](https://hkust.edu.hk/).
+- 
+# 💻 Internships
+- *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
+
+# 🧑‍💻↔️💻 HCI project diaries and reflection
+
+
+
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+->
