@@ -153,7 +153,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 - *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
 
 # 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
-
+- [**Project 2: Flooding Rescue Voice Assistant - Personal Diary**](/project2-diary/)
 
 
 
