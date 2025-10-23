@@ -12,10 +12,8 @@ redirect_from:
 # 🆘 Flooding Rescue Voice Assistant - Personal Diary
 
 **Course**: COMP4461 Human-Computer Interaction  
-**Project**: Project 2 - Voice User Interface  
+**Project**: Project 2 - Flooding Rescue Voice Assistant   
 **Role**: Full-stack Developer & Chat Agent Designer  
-**Duration**: September 2024 - October 2024
-
 ---
 
 ## 📋 Project Overview
@@ -492,37 +490,10 @@ AI was used **only as a coding assistant**, not as the primary designer or imple
 
 ### **Future Improvements**
 
-1. **Multi-Language Support**: Extend to Cantonese, Mandarin, and other languages
-2. **Offline Mode**: Cache essential functionality for no-internet scenarios
-3. **Visual Aids**: Add map integration to show rescue team location
-4. **Database Integration**: Store conversations for analysis and improvement
-5. **Multi-User Dashboard**: Allow dispatchers to manage multiple rescue calls
-
----
-
-## 📊 Technical Specifications
-
-**Backend Stack**:
-- Python 3.8+
-- FastAPI (web framework)
-- Uvicorn (ASGI server)
-- WebSocket (real-time communication)
-
-**Frontend Stack**:
-- HTML5
-- CSS3 (responsive design)
-- Vanilla JavaScript
-- Web Audio API
-
-**AI Services**:
-- Alibaba Cloud DashScope API
-- Model: Qwen-Plus, Paraformer, CosyVoice
-
-**Deployment**:
-- Local HTTPS server with self-signed certificate
-- Supports LAN access from multiple devices
-
----
+1. **Offline Mode**: Cache essential functionality for no-internet scenarios
+2. **Visual Aids**: Add map integration to show rescue team location
+3. **Database Integration**: Store conversations for analysis and improvement
+4. **Multi-User Dashboard**: Allow dispatchers to manage multiple rescue calls
 
 
 
