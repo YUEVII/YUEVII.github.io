@@ -1,9 +1,10 @@
 ---
-permalink: /project2-diary/
+permalink: /project2-diary.html
 title: "Project 2: Flooding Rescue Voice Assistant - Personal Diary"
 excerpt: ""
 author_profile: true
 redirect_from: 
+  - /project2-diary/
   - /project2/
   - /p2/
 ---
@@ -373,7 +374,7 @@ ws.onmessage = (event) => {
 
 ### **Main Interface Screenshot**
 
-![Frontend Interface](../images/project2-frontend.png)
+![Frontend Interface](images/project2-frontend.png)
 
 
 ---

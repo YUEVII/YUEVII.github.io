@@ -52,7 +52,7 @@ Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, **Leyi Wu$^{\star}$**, Luozhou Wan
 [UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745)
 
 Tianshuo Xu, Kai Wang, Zhifei Chen, Leyi Wu, Tianshui Wen, Fei Chao, Ying-Cong Chen$^{\dagger}$
-$^{\dagger}$Corresponding Author
+* $^{\dagger}$Corresponding Author
 
 [**Paper**](https://arxiv.org/pdf/2510.13745) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Project Page**](https://envision-research.github.io/UniCalli/) <strong></strong>
@@ -153,7 +153,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 - *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
 
 # 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
-- [**Project 2: Flooding Rescue Voice Assistant - Personal Diary**](/project2-diary/)
+- [**Project 2: Flooding Rescue Voice Assistant - Personal Diary**](project2-diary.html)
 
 
 
