@@ -22,6 +22,8 @@ I'm a third-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.c
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our Paper [STANCE: Motion-Coherent Video Generation via Sparse-to-Dense Anchored Encoding](https://arxiv.org/pdf/2510.14588) is released.
+- *2025.10*: &nbsp;🎉🎉 Our Paper [UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745) is released.
 - *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is reposted by AK (huggingface) on [X](https://x.com/_akhaliq/status/1931050970039099501?s=46)!
 - *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is released.
 - *2025.02*: &nbsp;🎉🎉 Our Paper [Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370) is accepted by CVPR2025.
@@ -30,6 +32,34 @@ I'm a third-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.c
 - *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STANCE: Motion-Coherent Video Generation via Sparse-to-Dense Anchored Encoding](https://arxiv.org/pdf/2510.14588)
+
+Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, **Leyi Wu$^{\star}$**, Luozhou Wang, Dongyu Yan, Zihan You, Wenting Luo, Guo Zhang, Ying-Cong Chen$^{\dagger}$
+* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
+
+[**Paper**](https://arxiv.org/pdf/2510.14588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://envision-research.github.io/STANCE/) <strong></strong>
+[**Code**](https://github.com/EnVision-Research/STANCE) <strong></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unicalli.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745)
+
+Tianshuo Xu, Kai Wang, Zhifei Chen, Leyi Wu, Tianshui Wen, Fei Chao, Ying-Cong Chen$^{\dagger}$
+$^{\dagger}$Corresponding Author
+
+[**Paper**](https://arxiv.org/pdf/2510.13745) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://envision-research.github.io/UniCalli/) <strong></strong>
+[**Code**](https://github.com/EnVision-Research/UniCalli) <strong></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/flexpainter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -123,5 +153,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 - *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
 
 # 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
+
+
 
 
