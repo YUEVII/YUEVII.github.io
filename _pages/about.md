@@ -154,6 +154,7 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 
 # 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
 - [**Project 2: Flooding Rescue Voice Assistant - Personal Diary**](project2-diary.html)
+- [**Project 3: AR Virtual Pet for University Students - Personal Diary**](project3-diary.html)
 
 
 
