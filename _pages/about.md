@@ -22,6 +22,7 @@ I'm a third-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.c
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 I am honored to receive the 2025 China National Scholarship (1 quota in the entire school).
 - *2025.10*: &nbsp;🎉🎉 Our Paper [STANCE: Motion-Coherent Video Generation via Sparse-to-Dense Anchored Encoding](https://arxiv.org/pdf/2510.14588) is released.
 - *2025.10*: &nbsp;🎉🎉 Our Paper [UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745) is released.
 - *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is reposted by AK (huggingface) on [X](https://x.com/_akhaliq/status/1931050970039099501?s=46)!
@@ -116,6 +117,8 @@ Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, 
 </div>
 
 # 🎖 Honors and Awards
+- **2025 China National Scholarship (1 quota in the entire school)**
+
 - **Gold Medal**, The 16th place  
   *Huawei Cup The 2023* **ICPC Asia-East Continent Final Contest**  
   Shanghai, China | 2024
