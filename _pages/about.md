@@ -1,163 +1,32 @@
 ---
+layout: about
+title: about
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: Undergraduate student in Artificial Intelligence, HKUST(GZ)
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>HKUST(GZ)</p>
+    <p>Guangzhou, Shenzhen</p>
+    <p><a href="mailto:lwu398@connect.hkust-gz.edu.cn">lwu398@connect.hkust-gz.edu.cn</a></p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 8
+
+latest_posts:
+  enabled: false
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am a fourth-year undergraduate student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), majoring in Artificial Intelligence. I am a member of [EnVision Lab](https://envision-research.hkust-gz.edu.cn/), where I work closely with [Dongyu Yan](http://me.starydy.xyz/), [Tianshuo Xu](https://scholar.google.com/citations?user=I6_dXvEAAAAJ&hl=zh-CN), and [Zhifei Chen](https://scholar.google.com/citations?user=RZv77XwAAAAJ&hl=en), under the guidance of Prof. [Ying-Cong Chen](https://www.yingcong.me/).
 
-<span class='anchor' id='about-me'></span>
+My research interests center on **VLM reasoning**, **embodied AI**, and **generative models** for video and 3D. I am especially interested in robust visual reasoning under imperfect real-world conditions, controllable video generation, and embodied systems that remain reliable under dynamic visual interference.
 
-I'm a third-year undergraduate student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), majoring in Artificial Intelligence. I'm also a member of [Envision Lab](https://envision-research.hkust-gz.edu.cn/), with privilege of working closely with [Dongyu Yan](http://me.starydy.xyz/), [Tianshuo Xu](https://scholar.google.com/citations?user=I6_dXvEAAAAJ&hl=zh-CN), [Zhifei Chen](https://scholar.google.com/citations?user=RZv77XwAAAAJ&hl=en) and under the guidance of Prof.[Ying-Cong Chen](https://www.yingcong.me/). Now I work in [Knowin.ai](https://knowin.ai/) as an intern, more focusing on Embodied AI. My research interests mainly focus on generative models including 3D generation, texture generation, video generation and Embodied AI. 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
-# 🔥 News
-- *2025.11*: &nbsp;🎉🎉 I am honored to receive the 2025 China National Scholarship (1 quota in the entire school).
-- *2025.10*: &nbsp;🎉🎉 Our Paper [STANCE: Motion-Coherent Video Generation via Sparse-to-Dense Anchored Encoding](https://arxiv.org/pdf/2510.14588) is released.
-- *2025.10*: &nbsp;🎉🎉 Our Paper [UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745) is released.
-- *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is reposted by AK (huggingface) on [X](https://x.com/_akhaliq/status/1931050970039099501?s=46)!
-- *2025.06*: &nbsp;🎉🎉 Our Paper [FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620) is released.
-- *2025.02*: &nbsp;🎉🎉 Our Paper [Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370) is accepted by CVPR2025.
-- *2025.02*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is accepted by CVPR2025.
-- *2024.12*: &nbsp;🎉🎉 Our Paper [Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/abs/2412.15050) is released.
-- *2024.12*: &nbsp;🎉🎉 Our paper [Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/abs/2412.00547) is released. 
-
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/stance.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[STANCE: Motion-Coherent Video Generation via Sparse-to-Dense Anchored Encoding](https://arxiv.org/pdf/2510.14588)
-
-Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, **Leyi Wu$^{\star}$**, Luozhou Wang, Dongyu Yan, Zihan You, Wenting Luo, Guo Zhang, Ying-Cong Chen$^{\dagger}$
-* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/pdf/2510.14588) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://envision-research.github.io/STANCE/) <strong></strong>
-[**Code**](https://github.com/EnVision-Research/STANCE) <strong></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unicalli.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy](https://arxiv.org/pdf/2510.13745)
-
-Tianshuo Xu, Kai Wang, Zhifei Chen, Leyi Wu, Tianshui Wen, Fei Chao, Ying-Cong Chen$^{\dagger}$
-* $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/pdf/2510.13745) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://envision-research.github.io/UniCalli/) <strong></strong>
-[**Code**](https://github.com/EnVision-Research/UniCalli) <strong></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/flexpainter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FlexPainter: Flexible and Multi-View Consistent Texture Generation](https://arxiv.org/pdf/2506.02620)
-
-Dongyu Yan$^{\star}$, **Leyi Wu$^{\star}$**, Jiantao Lin, Luozhou Wang, Tianshuo Xu, Zhifei Chen, Zhen Yang, Lie Xu, Shunsi Zhang, Ying-Cong Chen$^{\dagger}$
-* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/pdf/2506.02620) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://starydy.xyz/FlexPainter/) <strong></strong>
-[**Code**](https://github.com/StarRealMan/FlexPainter) <strong></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/kiss3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://www.arxiv.org/pdf/2503.01370)
-
-Jiantao Lin$^{\star}$, Xin Yang$^{\star}$, Meixi Chen$^{\star}$, Yingjie Xu, Dongyu Yan, **Leyi Wu**, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen$^{\dagger}$
-* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://www.arxiv.org/pdf/2503.01370) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://ltt-o.github.io/Kiss3dgen.github.io/) <strong></strong>
-[**Code**](https://github.com/EnVision-Research/Kiss3DGen) <strong></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/uni_renderer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual StreamDiffusion](https://arxiv.org/pdf/2412.15050)
-
-Zhifei Chen$^{\star}$, Tianshuo Xu$^{\star}$, Wenhang Ge$^{\star}$, **Leyi Wu**, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Yingcong Chen$^{\dagger}$
-* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/pdf/2412.15050) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/EnVision-Research/Uni-Renderer) <strong></strong>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/motion_dreamer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning](https://arxiv.org/pdf/2412.00547)
-
-Tianshuo Xu$^{\star}$, Zhifei Chen$^{\star}$, **Leyi Wu**, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen$^{\dagger}$
-
-* $^{\star}$Equal contribution  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/pdf/2412.00547) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/EnVision-Research/MotionDreamer) <strong></strong>
-</div>
-</div>
-
-# 🎖 Honors and Awards
-- **2025 China National Scholarship (1 quota in the entire school)**
-
-- **Gold Medal**, The 16th place  
-  *Huawei Cup The 2023* **ICPC Asia-East Continent Final Contest**  
-  Shanghai, China | 2024
-
-- **Silver Medal**  
-  *The 2023* **ICPC Asia Hefei Regional Contest**  
-  Hefei, China | 2023
-
-- **Silver Medal**  
-  *The 48th* **ICPC Asia Regional Contest Jinan Site**  
-  Jinan, China | 2023
-
-- **Silver Medal**  
-  *2023* **China Collegiate Programming Contest (CCPC), Shenzhen Site**  
-  Shenzhen, China | 2023
-
-- **Bronze Medal**  
-  *2023* **China Collegiate Programming Contest (CCPC), Harbin Site**  
-  Harbin, China | 2023
-
-- **Dean's List Award for Fall 2023 - 2024**  
-  HKUST(GZ) | 2024
-
-- **Dean's List Award for Spring 2024 - 2025**  
-  HKUST(GZ) | 2024
-
-- **Dean's List Award for Fall 2024 - 2025**  
-  HKUST(GZ) | 2025
-
-# 📖 Educations
-- *2023.08 - 2027.06*, Bachelor of Artificial Intelligence, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
-- *2025.09 - 2026.01*, Exchange Student, [HKUST](https://hkust.edu.hk/).
-  
-# 💻 Internships
-- *2025.09 - now*, [Knowin](https://knowin.ai/) Shenzhen, China.
-
-# 🧑‍💻↔️💻 HCI project diaries and reflection (for COMP4461)
-- [**Project 2: Flooding Rescue Voice Assistant - Personal Diary**](project2-diary.html)
-- [**Project 3: AR Virtual Pet for University Students - Personal Diary**](project3-diary.html)
-
-
-
+Recently, I won both tracks of the **1st Cross-Domain EgoCross Challenge @ EgoVis, CVPR 2026**, and was awarded the **2025 China National Scholarship** and the **Litchi Innovation Talent Scholarship**.

@@ -1,0 +1,9 @@
+# Social links are displayed in the order defined here.
+cv_pdf: /assets/pdf/Leyi_Wu_CV.pdf
+email: lwu398@connect.hkust-gz.edu.cn
+scholar_userid: M2HvXXgAAAAJ&hl=zh-CN
+github_username: YUEVII
+custom_social:
+  logo: /assets/img/favicon.ico
+  title: Personal Page
+  url: https://yuevii.github.io/

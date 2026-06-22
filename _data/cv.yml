@@ -1,0 +1,225 @@
+cv:
+  name: Leyi Wu
+  label: Fourth-year Undergraduate Student in Artificial Intelligence
+  email: lwu398@connect.hkust-gz.edu.cn
+  location: Guangzhou, Shenzhen
+  image: assets/img/prof_pic.jpg
+  summary: Fourth-year undergraduate student at HKUST(GZ) working on VLM reasoning, embodied AI, and generative models for video and 3D.
+
+  social_networks:
+    - network: GitHub
+      username: YUEVII
+    - network: Google Scholar
+      username: M2HvXXgAAAAJ
+
+  sections:
+    Education:
+      - institution: The Hong Kong University of Science and Technology (Guangzhou)
+        location: Guangzhou, China
+        url: https://www.hkust-gz.edu.cn/
+        area: Artificial Intelligence
+        studyType: Bachelor
+        start_date: 2023-08
+        end_date: 2027-06
+        score: "GPA: 3.784 / 4.3"
+        highlights:
+          - Member of EnVision Lab, advised by Prof. Ying-Cong Chen.
+          - Research interests include VLM reasoning, embodied AI, video generation, and 3D generation.
+
+      - institution: The Hong Kong University of Science and Technology
+        location: Hong Kong, China
+        url: https://hkust.edu.hk/
+        area: Exchange Study
+        studyType: Exchange Student
+        start_date: 2025-09
+        end_date: 2026-01
+
+    Experience:
+      - company: Knowin.ai
+        position: Embodied AI Intern
+        location: Shenzhen, China
+        url: https://knowin.ai/
+        start_date: 2025-09
+        end_date: Present
+        summary: Worked on embodied AI systems and robust robotic manipulation in visually complex home-like environments.
+        highlights:
+          - Led the implementation of a robot laundry-folding task under dynamic TV backgrounds, direct colored lighting, and rapidly changing illumination.
+          - Designed the experimental scene, task flow, visual perception pipeline, manipulation/control workflow, and system debugging protocol.
+          - Achieved stable folding of short-sleeve and long-sleeve clothes under strong visual interference.
+
+      - company: EnVision Lab, HKUST(GZ)
+        position: Undergraduate Researcher
+        location: Guangzhou, China
+        url: https://envision-research.hkust-gz.edu.cn/
+        start_date: 2024
+        end_date: Present
+        summary: Conducted research on controllable video generation, texture generation, 3D generation, and multimodal reasoning.
+
+    Publications:
+      - title: "RoboStressBench: Benchmarking VLM Robustness to Physical Visual Stress in Embodied Scenes"
+        authors:
+          - Leyi Wu
+          - Yifan Zhao
+          - Jinjie Zhang
+          - Suzeyu Chen
+          - Wosong Chen
+          - Zhifei Chen
+          - Tianshuo Xu
+          - Qingchun He
+          - Hongxin Hu
+          - Haojian Huang
+          - Yangkai Wei
+          - Wenqian Li
+          - Yinchuan Li
+          - Ying-Cong Chen
+        publisher: Under Review
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2606.00828
+        summary: Benchmarking VLM robustness to physical visual stress in embodied scenes.
+
+      - title: "STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding"
+        authors:
+          - Zhifei Chen
+          - Tianshuo Xu
+          - Leyi Wu
+          - Luozhou Wang
+          - Dongyu Yan
+          - Zihan You
+          - Wenting Luo
+          - Guo Zhang
+          - Yingcong Chen
+        publisher: ECCV2026
+        releaseDate: 2026
+        url: https://arxiv.org/pdf/2510.14588
+        summary: Equal contribution. Accepted to ECCV 2026.
+
+      - title: "UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy"
+        authors:
+          - Tianshuo Xu
+          - Kai Wang
+          - Zhifei Chen
+          - Leyi Wu
+          - Tianshui Wen
+          - Fei Chao
+          - Ying-Cong Chen
+        publisher: ICLR2026
+        releaseDate: 2026
+        url: https://arxiv.org/pdf/2510.13745
+        summary: Accepted to ICLR 2026.
+
+      - title: "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation"
+        authors:
+          - Jiantao Lin
+          - Xin Yang
+          - Meixi Chen
+          - Yingjie Xu
+          - Dongyu Yan
+          - Leyi Wu
+          - Xinli Xu
+          - Lie Xu
+          - Shunsi Zhang
+          - Ying-Cong Chen
+        publisher: CVPR2025
+        releaseDate: 2025
+        url: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Kiss3DGen_Repurposing_Image_Diffusion_Models_for_3D_Asset_Generation_CVPR_2025_paper.html
+
+      - title: "Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion"
+        authors:
+          - Zhifei Chen
+          - Tianshuo Xu
+          - Wenhang Ge
+          - Leyi Wu
+          - Dongyu Yan
+          - Jing He
+          - Luozhou Wang
+          - Lu Zeng
+          - Shunsi Zhang
+          - Yingcong Chen
+        publisher: CVPR2025
+        releaseDate: 2025
+        url: https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Uni-Renderer_Unifying_Rendering_and_Inverse_Rendering_Via_Dual_Stream_Diffusion_CVPR_2025_paper.html
+
+    Awards:
+      - title: Champion, Source-Limited and Open-Source Tracks, 1st Cross-Domain EgoCross Challenge
+        date: 2026
+        awarder: EgoVis Workshop, CVPR 2026
+        url: https://egocross-benchmark.github.io/
+        summary: Won both tracks of the 1st Cross-Domain EgoCross Challenge under the third EgoVis Workshop at CVPR 2026.
+
+      - title: China National Scholarship
+        date: 2025
+        awarder: Ministry of Education of China
+        summary: One quota in the entire school.
+
+      - title: Litchi Innovation Talent Scholarship
+        date: 2025
+        awarder: HKUST(GZ)
+        summary: One of 10 school-wide recipients.
+
+      - title: Gold Medal, ICPC Asia-East Continent Final Contest
+        date: 2024
+        awarder: ICPC
+        summary: Huawei Cup, 48th ICPC Asia-East Continent Final Contest, ranked 16th.
+
+      - title: Silver Medal, ICPC Asia Regional Contest Jinan Site
+        date: 2023
+        awarder: ICPC
+        summary: Ranked 66th.
+
+      - title: Silver Medal, ICPC Asia Hefei Regional Contest
+        date: 2023
+        awarder: ICPC
+
+      - title: Silver Medal, CCPC Shenzhen Site
+        date: 2023
+        awarder: China Collegiate Programming Contest
+
+      - title: Bronze Medal, CCPC Harbin Site
+        date: 2023
+        awarder: China Collegiate Programming Contest
+
+      - title: Dean's List Award
+        date: 2023-2025
+        awarder: HKUST(GZ)
+        summary: Awarded three times for semester GPA above 3.7.
+
+    Projects:
+      - name: RoboStressBench
+        summary: Built a benchmark for evaluating VLM robustness under physical visual stress in embodied scenes.
+        highlights:
+          - Organized physical visual stress around Material, Viewpoint, Lighting, and Geometry factors.
+          - Supports VQA and grounding-style embodied evaluation.
+        start_date: 2026
+
+      - name: Robot Laundry Folding Under Dynamic Visual Interference
+        summary: Built an embodied AI system for folding clothes under dynamic TV backgrounds and complex colored lighting.
+        highlights:
+          - Designed the scene, perception-control workflow, and evaluation process.
+          - Demonstrated stable folding of short-sleeve and long-sleeve clothes in high-noise visual environments.
+        start_date: 2025-12
+        end_date: 2026-04
+
+      - name: AnimationBench
+        summary: First-author benchmark project for evaluating character-centric animation in video models.
+        highlights:
+          - Focuses on IP preservation, animation principles, and broader quality dimensions.
+        start_date: 2026
+
+    Service:
+      - company: Singularity AI Lab, HKUST(GZ)
+        position: Lead
+        location: Guangzhou, China
+        start_date: 2024-10
+        end_date: 2025-03
+        summary: Led development planning and AI knowledge outreach for a student AI lab with 250 members.
+
+      - company: College 1, HKUST(GZ)
+        position: Volunteer Tutor
+        location: Guangzhou, China
+        start_date: 2025-09
+        end_date: Present
+        summary: Provided long-term academic tutoring and Q&A support for students needing foundational help.
+
+    Interests:
+      - name: Research
+        keywords: "VLM reasoning, embodied AI, controllable video generation, 3D generation, texture generation"
